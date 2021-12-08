@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Welcome to Richard's Personal Pages
 
-You can use the [editor on GitHub](https://github.com/961853266hyt/961853266hyt.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+#### basic info
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* a junior student from Hdu,China
+* majored in computer science and technology
 
-### Markdown
+#### habits
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* love all kinds of games(Zelda is the best!) and also really into game development using unity3d
+* I love football and I am a big fan of Liverpool 
+* rock music(cold play)
 
-```markdown
-Syntax highlighted code block
+#### skills
 
-# Header 1
-## Header 2
-### Header 3
+* java,c,c++,python,matlab
+* unity3d
+* Socket coding
+* android apps develop
 
-- Bulleted
-- List
+#### Project experience
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+* **brain computer interface based virtual reality development.  2021.3-6**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/961853266hyt/961853266hyt.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Internship
+
+*   **杭州飞步科技有限公司(about auto-driving car)   2021 6.6 -now**
+
+  My main work is to develop a software that can convert two kinds of map files into each other.
+
+
+
